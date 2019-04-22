@@ -1,10 +1,10 @@
 body{
-	background-color: #f4f4f4;
+    background-color: #f4f4f4;
 }
 
 #box{
-	display: block;
-	position: absolute;
+    display: block;
+    position: absolute;
     width: 489px;
     height: 449px;
     background-color: white;
@@ -12,105 +12,105 @@ body{
     top: 27%;
 }
 #border{
-	display: block;
-	position: absolute;
-	width: 423px;
-	height: 60px;
-	background-color: black;
-	top: 5%;
-	left: 7%;
-	right: 5%;
+    display: block;
+    position: absolute;
+    width: 423px;
+    height: 60px;
+    background-color: black;
+    top: 5%;
+    left: 7%;
+    right: 5%;
 }
 #title{
-	font-family: 'Lato', sans-serif;
-	color: white;
-	text-align: center;
-	font-size: 30px;
-	margin-top: 13px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 13px;
 
 }
 
 #login{
-	margin-top: 110px;
-	display: block;
-	position: absolute;
-	height: 50px;
-	width: 423px;
-	left: 7%;
-	background-color: #dde1e0;
-	border:none;
-	font-family: 'Lato', sans-serif;
-	font-size: 24px;
-	color: white;
-	text-indent: 10px;
+    margin-top: 110px;
+    display: block;
+    position: absolute;
+    height: 50px;
+    width: 423px;
+    left: 7%;
+    background-color: #dde1e0;
+    border:none;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    color: white;
+    text-indent: 10px;
 }
 
 #password{
-	display: block;
-	position: absolute;
-	margin-top: 175px;
-	height: 50px;
-	width: 423px;
-	left: 7%;
-	background-color: #dde1e0;
-	border:none;
-	color:white;
-	font-family: 'Lato', sans-serif;
-	font-size: 22px;
-	text-indent: 10px;
+    display: block;
+    position: absolute;
+    margin-top: 175px;
+    height: 50px;
+    width: 423px;
+    left: 7%;
+    background-color: #dde1e0;
+    border:none;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    text-indent: 10px;
 }
 #check{
-	display: block;
-	position: absolute;
-	margin-top: 245px;
-	left: 9%;
+    display: block;
+    position: absolute;
+    margin-top: 245px;
+    left: 9%;
 }
 #signed{
-	position: absolute;
-	margin-top: 243px;
-	left: 13%;
-	color: black;
-	font-size: 15px;
-	font-family: 'Lato', sans-serif;
+    position: absolute;
+    margin-top: 243px;
+    left: 13%;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
 }
 #i{
-	position: absolute;
-	margin-top: 267px;
-	left: 9%;
-	color: black;
-	font-size: 15px;
-	font-family: 'Lato', sans-serif;
+    position: absolute;
+    margin-top: 267px;
+    left: 9%;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
 }
 #forgot{
-	position: absolute;
-	margin-top: 240px;
-	left: 70%;
-	color: black;
-	font-size: 15px;
-	font-family: 'Lato', sans-serif;
-	text-decoration: none;
-	color: #80808c;
+    position: absolute;
+    margin-top: 240px;
+    left: 70%;
+    color: black;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    color: #80808c;
 }
 #last{
-	width: 300px;
-	height: 60px;
-	color: white;
-	border: none;
-	background-color: #869c37;
-	position: absolute;
-	margin-top: 350px;
-	left: 20%;
-	font-size: 25px;
-	font-family: 'Lato', sans-serif;
-	text-decoration: none;
+    width: 300px;
+    height: 60px;
+    color: white;
+    border: none;
+    background-color: #869c37;
+    position: absolute;
+    margin-top: 350px;
+    left: 20%;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
 }
 #t{
-	text-decoration: none;
-	color: white;
+    text-decoration: none;
+    color: white;
 }
 
-input[type="search"]::-webkit-search-cancel-button { 
-    -webkit-appearance: none; 
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
 }
 input[type="search"]::placeholder{
   color: #fefefe;
