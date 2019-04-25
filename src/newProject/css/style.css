@@ -104,3 +104,114 @@ body
     text-align: center;
     margin-top: 7px;
 }
+
+.main
+{
+    background-color: white;
+    position: absolute;
+    top: 33%;
+    left: 20%;
+    transform: translate(-20%;-33%);
+    width: 60%;
+    height: 65%;
+}
+
+.addProject
+{
+    background-color: black;
+    border: none;
+    margin-left: 30%;
+    margin-top: 3%;
+    width: 40%;
+    height: 15%;
+}
+
+.addProjectText
+{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.labelChoice
+{
+    color: #504c4b;
+    margin-left: 41%;
+    font-size: 15px;
+    font-style: italic;
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttonDesign
+{
+    background-color: #546579;
+    border: none;
+    margin-left: 24%;
+    margin-top: 1.5%;
+    width: 25%;
+    height: 12%;
+}
+
+.buttonKindText
+{
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.buttonVideo
+{
+    background-color: #4b827f;
+    border: none;
+    margin-left: 4%;
+    margin-top: 1.5%;
+    width: 25%;
+    height: 12%;
+}
+
+.buttonMusic
+{
+    background-color: #785460;
+    border: none;
+    margin-left: 24%;
+    margin-top: 1.7%;
+    width: 25%;
+    height: 12%;
+}
+
+.buttonLiterature
+{
+    background-color: #547878;
+    border: none;
+    margin-left: 4%;
+    margin-top: 1.7%;
+    width: 25%;
+    height: 12%;
+}
+
+.buttonPhoto
+{
+    background-color: #567855;
+    border: none;
+    margin-left: 38%;
+    margin-top: 2%;
+    width: 25%;
+    height: 12%;
+}
+.lastLine
+{
+    background-color: #dfdfdf;
+    width: 60%;
+    height: 0.5%;
+    position: absolute;
+    margin-top: 20px;
+    left: 50%;
+    transform: translate(-50%);
+}
