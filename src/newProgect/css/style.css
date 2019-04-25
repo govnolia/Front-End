@@ -1,0 +1,106 @@
+*
+{
+    margin: 0;
+}
+
+body
+{
+    background-color: #f4f4f4;
+}
+
+.head
+{
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    height: 60px;
+}
+
+.title
+{
+    position: absolute;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 35px;
+    margin-left: 20px;
+    top: 5px;
+}
+
+.userInfoBox
+{
+    position: absolute;
+    background-color: #a0aba5;
+    width: 12%;
+    height: 90px;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%, -3%);
+}
+
+.userInfoName
+{
+    text-align: center;
+    color: #dadad8;
+    font-size: 25px;
+    margin-top: 23px;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.pictureBox
+{
+    position: absolute;
+    width: 12%;
+    height: 200px;
+    background-color: white;
+    margin-top: 50px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.avatar
+{
+    width: 93%;
+    height: 93%;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.repBox
+{
+    width: 9%;
+    height: 80px;
+    background-color: white;
+    position: absolute;
+    top: 22%;
+    left: 56%;
+    transform: translate(-56%; -22%);
+
+}
+
+.labelRep
+{
+    text-align: center;
+    color: #918889;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+}
+
+.grayLink
+{
+    background-color: #dfdfdf;
+    width: 90%;
+    height: 2%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.amountFollowers
+{
+    font-family: 'PT Sans', sans-serif;
+    color: #069e0b;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 7px;
+}
